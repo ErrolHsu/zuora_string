@@ -11,7 +11,7 @@ creditCardType= Type de carte
 
 creditCardNumber= Numéro de carte
 
-creditCardExpirationMonth= Date d?expiration
+creditCardExpirationMonth= Date d'expiration
 
 cardSecurityCode= CVV
 
