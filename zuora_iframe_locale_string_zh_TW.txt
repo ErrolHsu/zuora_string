@@ -9,7 +9,7 @@ page.label.required= 必填欄位
 # Label translations 
 creditCardType= 信用卡類型
 
-creditCardType= 卡號
+creditCardNumber= 卡號
 
 creditCardExpirationMonth= 到期日
 
